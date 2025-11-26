@@ -39,15 +39,8 @@ It includes three pages — **Home**, **Products**, and **Contact** — designed
 - **HTML5**  
 - **Tailwind CSS**
 
-## 🚀 How to Run This Project
+## 🚀 please visit Greenden Tailwing Website
 
-```bash
-# Clone the repository
-
-
-# Open the project folder
-cd greenden
-
-# Open index.html in your browser
+        https://gunasundary.github.io/greenden-tailwind/
 *(Add your project screenshots here)*  
 # greenden-tailwind
